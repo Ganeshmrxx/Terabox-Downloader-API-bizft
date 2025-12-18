@@ -3,6 +3,7 @@ main = "src/worker.js"
 compatibility_date = "2025-04-01"
 compatibility_flags = []
 
+
 # Automatically inject environment variables and secrets
 [vars]
 # (No vars needed — we use secrets for the cookie)
